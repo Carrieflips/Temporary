@@ -20,3 +20,26 @@ background-color: gray;
 h3 {
   padding-top:30px;
 }
+
+/* contact pg */
+#imagebox {
+  height:220px;
+  background-color:gray;
+}
+
+#contactinfo {
+  padding: 20px;
+}
+/* end contact pg */
+
+/* press pg */
+.media {
+  padding-top:20px;
+}
+
+.media-object {
+  width: 140px;
+  height: 140px;
+}
+
+/* end press pg */
