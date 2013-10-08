@@ -21,11 +21,13 @@ h3 {
   padding-top:30px;
 }
 
-/* contact pg */
 #imagebox {
   height:220px;
+  width:220px;
   background-color:gray;
 }
+
+/* contact pg */
 
 #contactinfo {
   padding: 20px;
