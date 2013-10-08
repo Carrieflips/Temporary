@@ -1,0 +1,22 @@
+.banner { 
+height: 260px;
+background-color:gray;
+}
+
+.video {
+height: 315px;
+width:640px;
+background-color: gray;
+}
+
+#sidebar {
+  padding-top: 50px;
+}
+
+.nav li {
+  height:40px;
+}
+
+h3 {
+  padding-top:30px;
+}
