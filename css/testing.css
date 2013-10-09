@@ -1,12 +1,12 @@
 .banner { 
 height: 260px;
-background-color:gray;
+background-color:#f2f8f8;
 }
 
 .video {
 height: 315px;
 width:640px;
-background-color: gray;
+background-color: #f2f8f8;
 }
 
 #sidebar {
@@ -24,7 +24,7 @@ h3 {
 #imagebox {
   height:220px;
   width:220px;
-  background-color:gray;
+  background-color:#f2f8f8;
 }
 
 /* contact pg */
@@ -45,3 +45,23 @@ h3 {
 }
 
 /* end press pg */
+
+/* Success Story pg */
+#preface {
+  height: 140px;
+  background-color:gray;
+  margin-top:20px;
+}
+
+#preface p{
+  padding:20px;
+  color: #ffffff;
+}
+
+#awkwardbox {
+  height:500px;
+  background-color:#f2f8f8;
+  margin-top:30px;
+}
+
+/* end success story pg */
